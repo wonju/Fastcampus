@@ -20,11 +20,13 @@
 
 ###컴퓨터의 구조
 - 하버드 구조 : 메모리 분리, 속도 빠름, 구성에 비용 많이 들며 복잡
-![하버드구조.jpeg](/Users/hwang-wonju/Documents/1.Work/image/하버드구조.jpeg)
+![test1.jpeg](./test1.jpeg)
+
+
 -- *명령어 메모리, 데이터 메모리 분리*
 
 - 폰 노이만 구조 : 하나의 버스, 메모리 속박/버스 병목문제
-![폰노이만 구조.jpeg](/Users/hwang-wonju/Documents/1.Work/image/폰노이만 구조.jpeg)
+![test2.jpeg](./test2.jpeg)
 
 - 아키텍쳐 - 하버드 + 폰 노이만 구조
     cpu 캐시 메모리 형상
